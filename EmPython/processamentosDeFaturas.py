@@ -54,7 +54,7 @@ def processamento(faturas):
     
 
 
-with open("./faturas.json") as file:
+with open("../dados/dados.json") as file:
     faturamentos = json.load(file)
 
 

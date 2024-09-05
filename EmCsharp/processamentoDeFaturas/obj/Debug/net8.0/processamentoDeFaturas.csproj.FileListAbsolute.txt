@@ -1,0 +1,15 @@
+C:\Users\hella\OneDrive\Área de Trabalho\area de trabalho\test\trabalho\Testes-do-trabalho\EmCsharp\processamentoDeFaturas\obj\Debug\net8.0\processamentoDeFaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hella\OneDrive\Área de Trabalho\area de trabalho\test\trabalho\Testes-do-trabalho\EmCsharp\processamentoDeFaturas\obj\Debug\net8.0\processamentoDeFaturas.AssemblyInfoInputs.cache
+C:\Users\hella\OneDrive\Área de Trabalho\area de trabalho\test\trabalho\Testes-do-trabalho\EmCsharp\processamentoDeFaturas\obj\Debug\net8.0\processamentoDeFaturas.AssemblyInfo.cs
+C:\Users\hella\OneDrive\Área de Trabalho\area de trabalho\test\trabalho\Testes-do-trabalho\EmCsharp\processamentoDeFaturas\obj\Debug\net8.0\processamentoDeFaturas.csproj.CoreCompileInputs.cache
+C:\Users\hella\OneDrive\Área de Trabalho\area de trabalho\test\trabalho\Testes-do-trabalho\EmCsharp\processamentoDeFaturas\obj\Debug\net8.0\processamentoDeFaturas.sourcelink.json
+C:\Users\hella\OneDrive\Área de Trabalho\area de trabalho\test\trabalho\Testes-do-trabalho\EmCsharp\processamentoDeFaturas\bin\Debug\net8.0\processamentoDeFaturas.exe
+C:\Users\hella\OneDrive\Área de Trabalho\area de trabalho\test\trabalho\Testes-do-trabalho\EmCsharp\processamentoDeFaturas\bin\Debug\net8.0\processamentoDeFaturas.deps.json
+C:\Users\hella\OneDrive\Área de Trabalho\area de trabalho\test\trabalho\Testes-do-trabalho\EmCsharp\processamentoDeFaturas\bin\Debug\net8.0\processamentoDeFaturas.runtimeconfig.json
+C:\Users\hella\OneDrive\Área de Trabalho\area de trabalho\test\trabalho\Testes-do-trabalho\EmCsharp\processamentoDeFaturas\bin\Debug\net8.0\processamentoDeFaturas.dll
+C:\Users\hella\OneDrive\Área de Trabalho\area de trabalho\test\trabalho\Testes-do-trabalho\EmCsharp\processamentoDeFaturas\bin\Debug\net8.0\processamentoDeFaturas.pdb
+C:\Users\hella\OneDrive\Área de Trabalho\area de trabalho\test\trabalho\Testes-do-trabalho\EmCsharp\processamentoDeFaturas\obj\Debug\net8.0\processamentoDeFaturas.dll
+C:\Users\hella\OneDrive\Área de Trabalho\area de trabalho\test\trabalho\Testes-do-trabalho\EmCsharp\processamentoDeFaturas\obj\Debug\net8.0\refint\processamentoDeFaturas.dll
+C:\Users\hella\OneDrive\Área de Trabalho\area de trabalho\test\trabalho\Testes-do-trabalho\EmCsharp\processamentoDeFaturas\obj\Debug\net8.0\processamentoDeFaturas.pdb
+C:\Users\hella\OneDrive\Área de Trabalho\area de trabalho\test\trabalho\Testes-do-trabalho\EmCsharp\processamentoDeFaturas\obj\Debug\net8.0\processamentoDeFaturas.genruntimeconfig.cache
+C:\Users\hella\OneDrive\Área de Trabalho\area de trabalho\test\trabalho\Testes-do-trabalho\EmCsharp\processamentoDeFaturas\obj\Debug\net8.0\ref\processamentoDeFaturas.dll
